@@ -1,13 +1,23 @@
-# today_I_Learned
+---
+description: There's an explanation for all of this on the GitHub page this is synced with
+cover: .gitbook/assets/Dasboards Background (Ley3D elements Over ).jpeg
+coverY: 0
+---
 
-This is a repository of things I learned each day, relevant to the fields of work, study, and general interest; that seem appropriate for this platform, but in a bulleted or otherwise consolidated style of formatting.
+# 🔦 The TIL Protocol
 
-Camel casing is annoying so hopefully using it for the title will deter people from this seemingly arduous but necessary repository, if anyone actually ever subverts my plan to stay unnoticed forever. 
+The TIL proto summarized by Anthropomorphic's "Claude"&#x20;
 
-If I'm fortunate enough to have things go according to plan, and instead deter all traffic to an autonomous agent GitHub, in this, the magical age of autonomous popularity and proverbial data measuring between nerds; then I suppose this is a sort of secret yet not so secret (because it is public and all), nerd journal.
 
-As the more you do things that  are real, the more they become private out of necessity.. and as of now I am committing far more than an average workday in hours to things that end up on this platform, I would like something to ensure that my mandatory green boxes are lit up as is the expectation.
 
-Should I ever seek non self-employment status, the TIL protocol has been created so I can say "hey look... green boxes go brrrr"... this seems to be an easier alternative over otherwise having to explain why my boxes do not get greenified and should help to serve the dual purpose of reinforcing something I learned on any particular day, until I have the need for an ongoing public project which can take the place of this. 
+## Daily Learning Journal
 
-Being that the goal is to open source much of what is being created.. hopefully the aforementioned occurrence becomes a reality sooner than later.
+This is a repository documenting things I have learned each day that are relevant to my fields of work, study, and general interests. The content is presented in a condensed, bulleted format for easy reference.
+
+The cumbersome title using camel-Case is an attempt to deter visitors, as this is intended as a personal journal rather than a public site. My hope is that this repository will fly under the radar, serving as a private (yet public) nerd journal of sorts to record my daily knowledge.
+
+As real-world projects increasingly become proprietary by necessity, this journal allows me to populate my GitHub profile with green contribution boxes, as expected in tech circles today. Should I ever seek traditional employment, this consistent green activity will preemptively answer questions about my lack of public commits during that time.
+
+In the interim, this daily journal reinforces and preserves the things I learn across disciplines. My aim is to eventually open source much of what I'm working on as side projects, which can then take the place of this learning journal.
+
+For now, this serves the dual purpose of documenting my knowledge while keeping my GitHub profile active with daily contributions. My goal is for those contributions to someday come from public open source projects instead of this private journal.
