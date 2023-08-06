@@ -1,5 +1,5 @@
 # today_I_Learned
-A repository of things I learned each day, relevant to the fields of work, study, and general interest; that seem appropriate for this platform, but in a bulleted or otherwise consolidatied style of formatting.
+This is a repository of things I learned each day, relevant to the fields of work, study, and general interest; that seem appropriate for this platform, but in a bulleted or otherwise consolidatied style of formatting.
 
 Camel casing is annoying so hopefully using it for the title will deter people from this seeminlgly arduos but neccessary repository, if anyone actually ever subverts my plan to stay unnoticed forever. 
 
