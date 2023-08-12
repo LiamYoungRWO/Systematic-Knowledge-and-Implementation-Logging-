@@ -12,3 +12,4 @@ Today's TIL should really be a captain obnvoius reinforcement day, but TIL that 
 
 **08/09/23** Today I learned new things about filiing homeowners insurance claims and how to best maximize the end result regarding the incident that occured to cause the need to file in teh first place (massive hailstorm)
 
+Damn... TIL thatt 2 days flew by and I didn't touch this working on that stupid interrogatory&#x20;
