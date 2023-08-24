@@ -9,3 +9,4 @@
 ***
 
 * [🎓 TIL Week Two](til-week-two.md)
+* [TIL-TID Week Three](til-tid-week-three.md)
