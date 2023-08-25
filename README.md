@@ -1,66 +1,57 @@
 ---
 description: >-
-  There's an explanation for all of this on the GitHub page this is synced with,
-  I would redirect visitors over there if they wish to learn more about this
-  proto
+ 
 cover: .gitbook/assets/Dasboards Background (Ley3D elements Over ).jpeg
 coverY: 0
 ---
 
-# 🔦 The TIL Protocol
+# 🔦 Systematic Knowledge and Implementation Logging Protocol: SKILP
 
-**The TIL proto summarized by Anthropomorphic's "Claude"**&#x20;
-
-
-
-## Daily Learning Journal
-
-This is a repository documenting things I have learned each day that are relevant to my fields of work, study, and general interests. The content is presented in a condensed, bulleted format for easy reference.
-
-The cumbersome title using camel-Case is an attempt to deter visitors, as this is intended as a personal journal rather than a public site. My hope is that this repository will fly under the radar, serving as a private (yet public) nerd journal of sorts to record my daily knowledge.
-
-As real-world projects increasingly become proprietary by necessity, this journal allows me to populate my GitHub profile with green contribution boxes, as expected in tech circles today. Should I ever seek traditional employment, this consistent green activity will preemptively answer questions about my lack of public commits during that time.
-
-In the interim, this daily journal reinforces and preserves the things I learn across disciplines. My aim is to eventually open source much of what I'm working on as side projects, which can then take the place of this learning journal.
-
-For now, this serves the dual purpose of documenting my knowledge while keeping my GitHub profile active with daily contributions. My goal is for those contributions to someday come from public open source projects instead of this private journal.
+**T"**&#x20;
 
 
 
-**As summarized by the LLlama (Who has trained itself to believe that all I care about is having it summarize AI/ML related writing from my previous interactions with it. It's worth noting that this LLM is as advertised... notably faster than the others)**
+SKILP
 
-"Title: The TIL Protocol - A Secret(ish) Nerd Journal Introduction: Hello there! Welcome to my humble abode of learning, where I document the tidbits of knowledge I accumulate each day. As a self-proclaimed nerd, I believe that learning should never cease, and thus, I have created this repository to keep track of my progress. Please note that this is not intended to be a comprehensive collection of everything I learn, but rather a selection of interesting facts and skills that pique my curiosity. Format: To maintain consistency and brevity, I shall use bullet points to convey my thoughts. Each entry will follow a simple format:
+Absolutely! Here's a detailed summary of the Systematic Knowledge and Implementation Logging Protocol (SKILP):
 
-* Topic: \[Insert subject here]
-* What I Learned: \[A brief summary of the key points I grasped]
-* Why It Matters: \[My interpretation of the significance or application of the topic] Topics:
-* Programming languages and their nuances
-  * How to optimize code for better performance
-  * Different paradigms and their trade-offs
-* Data analysis and visualization
-  * Techniques for cleaning and preprocessing datasets
-  * Best practices for creating informative plots and charts
-* Machine learning and artificial intelligence
-  * Algorithms for classification and regression tasks
-  * Ethical considerations when working with AI systems
+1. Objective: 
+   The primary objective of SKILP is to serve as a comprehensive framework for systems administrators to document and track both daily learning experiences and the implementation of new technologies or procedures. This protocol aims to facilitate knowledge retention, ensure best practices, and streamline troubleshooting processes.
 
-Why Green Boxes Matter:
+2. Scope:
+   SKILP is designed to cover a broad range of topics pertinent to systems administration. This includes but is not limited to server management, network configuration, security protocols, software updates, and hardware maintenance.
 
-In order to keep myself motivated and accountable, I have implemented a system of "green boxes." These indicate that I have successfully completed a task or learned something new, and serve as a reminder of my progress. By keeping these boxes illuminated, I hope to foster a sense of accomplishment and drive to continue exploring various subjects. Conclusion: This repository serves as both a personal record of my learning journey and a potential resource for others who might benefit from my discoveries. Should I decide to pursue non-self-employed opportunities in the future, the TIL protocol will serve as evidence of my dedication to continuous learning. Until then, I invite you to peruse these pages and perhaps even contribute your own insights. Happy reading!"
+3. Data Collection:
+   The protocol mandates the systematic collection of data points related to daily tasks. This involves capturing the nature of the task, the steps taken to accomplish it, any challenges faced, and the final outcome.
 
+4. Documentation Standards:
+   SKILP adheres to rigorous documentation standards to ensure that all entries are consistent, searchable, and easily understandable. This involves the use of specific templates and taxonomies to categorize information.
 
+5. Implementation Records:
+   Alongside learning logs, SKILP requires detailed records of any new implementations. This should include the rationale behind the implementation, the resources used, and any modifications to existing systems.
 
-**As summarized by Chat GPT -4**
+6. Version Control:
+   SKILP incorporates version control mechanisms to track changes over time. This is crucial for auditing purposes and for understanding the evolution of systems and practices.
 
-## **A Reflective Repository: The TIL (Today I Learned) Protocol**
+7. Access Control:
+   To maintain the integrity and confidentiality of the data, SKILP employs robust access control measures. Only authorized personnel can access, modify, or delete entries.
 
-This compendium, designed as an amalgam of daily knowledge accumulations, captures insights and discoveries from diverse domains - professional, educational, and personal. It's a curated space, where every line item, thought, and observation are presented in an encapsulated, bullet-point style for streamlined consumption. The utilization of camel casing for the title is an intentional quirk, a slight hint of eccentricity designed to deflect casual observers away from this vast, albeit necessary, reservoir of knowledge.
+8. Review Mechanism:
+   Periodic reviews are integral to SKILP. These reviews serve to validate the accuracy of the logs, assess the effectiveness of new implementations, and identify areas for improvement.
 
-In a world enamored by autonomous popularity, where data becomes a unit of competition among the intellectual circle, this repository stands as a paradox. Its very existence is a public secret - a nerd's diary, if you will. The idea here is simple: as we immerse ourselves deeper into the tangible, the necessity for privacy organically grows, a fascinating side-effect of authenticity.
+9. Data Retention and Archival:
+   SKILP specifies guidelines for how long records should be kept and the procedures for archiving old data. This ensures that historical data is available for future reference and analysis.
 
-The TIL protocol is not just about logging hours, it’s about creating an observable trail of commitment to intellectual growth, the meticulousness of a green-lit GitHub. As a potential demonstration of my prowess for potential employers, it’s a visual testament saying "look here, consistency in action". It negates the need to justify a lack of visible contribution and simultaneously solidifies a lesson learned each day.
+10. Compliance and Auditing:
+    SKILP is designed to be compliant with industry standards and regulations. Regular audits are conducted to ensure adherence to the protocol and to identify any potential gaps or areas for improvement.
 
-Aiming for open-source, this protocol not only acts as a record of knowledge but also a placeholder until a larger public project takes its stead. The ultimate goal is to transition this space from a personal learning log into a shared pool of innovation, making this 'public secret' a fully communal resource. Here’s to hoping that the transformation from an individual to a collaborative narrative becomes a reality, sooner rather than later.
+11. Training and Onboarding:
+    New team members are trained in the SKILP methodology as part of their onboarding process. This ensures uniformity in data collection and documentation across the team.
+
+12. Continuous Improvement:
+    SKILP is not a static protocol; it is designed for continuous improvement. Feedback loops are built into the system to capture user experiences and insights, which are then used to refine and update the protocol.
+
+By adhering to the Systematic Knowledge and Implementation Logging Protocol, systems administrators can ensure a more organized, efficient, and effective operational environment.
 
 
 
