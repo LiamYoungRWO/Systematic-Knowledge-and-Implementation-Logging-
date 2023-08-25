@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🔦 SKILP](README.md)
+* [🔦 S.K.I.L.P.](README.md)
 
 ## Group 1
 
