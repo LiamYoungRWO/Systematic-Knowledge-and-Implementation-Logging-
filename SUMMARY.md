@@ -9,4 +9,4 @@
 ***
 
 * [🎓 SKILP w2](til-week-two.md)
-* [SKILP w3](til-tid-week-three.md)
+* [SKILP w3](skilp-w3.md)
