@@ -10,3 +10,7 @@
 
 * [🎓 SKILP w2](til-week-two.md)
 * [SKILP w3](skilp-w3.md)
+
+## Group 2
+
+* [SKILP W4](group-2/skilp-w4.md)
