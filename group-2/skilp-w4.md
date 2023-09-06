@@ -9,3 +9,5 @@ description: September 1st, Solana Fall
 Increased focus on  network validation optimization and fine-tuning.&#x20;
 
 **09/04/23: TID:** Been putting in 16hr+ days transitioning out of old business, back at the end of this week to put Sept to good use in this world
+
+**09/05/23: TID:** Wrapped up sprint 1/2 of closure of CBNS
